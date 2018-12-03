@@ -1,0 +1,36 @@
+==============================
+Clustering Parameters: K_NUM is 20
+______________________________
+Clustering result: kmeanstopics for the feature topNum_5_divid_1_words_feature
+The total number of valid article with label topics is: 5928
+SSE of the clustering is : 1438552.34
+Entropy of non-clustering is : 2.55038915278
+Entropy after clustering is : 2.44257282766
+Information gain from entropy is : 0.107816325124
+
+______________________________
+Clustering result: kmeanstopics for the feature topNum_5_divid_5_words_feature
+The total number of valid article with label topics is: 5928
+SSE of the clustering is : 1435464.74
+Entropy of non-clustering is : 5.10077830557
+Entropy after clustering is : 2.4313213161
+Information gain from entropy is : 2.66945698946
+
+==============================
+Clustering Parameters: K_NUM is 30
+______________________________
+Clustering result: kmeanstopics for the feature topNum_5_divid_1_words_feature
+The total number of valid article with label topics is: 5928
+SSE of the clustering is : 939190.573333
+Entropy of non-clustering is : 2.55038915278
+Entropy after clustering is : 2.39099489313
+Information gain from entropy is : 0.159394259649
+
+______________________________
+Clustering result: kmeanstopics for the feature topNum_5_divid_5_words_feature
+The total number of valid article with label topics is: 5928
+SSE of the clustering is : 955968.173333
+Entropy of non-clustering is : 5.10077830557
+Entropy after clustering is : 2.39936698605
+Information gain from entropy is : 2.70141131951
+

@@ -1,0 +1,76 @@
+==============================
+Clustering Parameters: minpts is 6 and EPSILON is 0.5
+______________________________
+Clustering result: dbSCANplaces for the feature topNum_5_divid_1_words_feature
+The total number of valid article with label places is: 15098
+SSE of the clustering is : 733394.157034
+Entropy of non-clustering is : 2.14388571287
+Entropy after clustering is : 2.01245259936
+Information gain from entropy is : 0.131433113515
+
+______________________________
+Clustering result: dbSCANplaces for the feature topNum_5_divid_5_words_feature
+The total number of valid article with label places is: 15098
+SSE of the clustering is : 4008678.72743
+Entropy of non-clustering is : 4.28777142574
+Entropy after clustering is : 4.14210416915
+Information gain from entropy is : 0.145667256594
+
+==============================
+Clustering Parameters: minpts is 10 and EPSILON is 0.5
+______________________________
+Clustering result: dbSCANplaces for the feature topNum_5_divid_1_words_feature
+The total number of valid article with label places is: 15098
+SSE of the clustering is : 1761904.99889
+Entropy of non-clustering is : 2.14388571287
+Entropy after clustering is : 2.06376572673
+Information gain from entropy is : 0.0801199861405
+
+______________________________
+Clustering result: dbSCANplaces for the feature topNum_5_divid_5_words_feature
+The total number of valid article with label places is: 15098
+SSE of the clustering is : 9343494.32889
+Entropy of non-clustering is : 4.28777142574
+Entropy after clustering is : 4.20197177371
+Information gain from entropy is : 0.0857996520319
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The same EPSILON (Radius above)
+==============================
+Clustering Parameters: minpts is 6 and EPSILON is 0.7
+______________________________
+Clustering result: dbSCANplaces for the feature topNum_5_divid_1_words_feature
+The total number of valid article with label places is: 15098
+SSE of the clustering is : 651915.959836
+Entropy of non-clustering is : 2.14388571287
+Entropy after clustering is : 2.00000532605
+Information gain from entropy is : 0.14388038682
+
+______________________________
+Clustering result: dbSCANplaces for the feature topNum_5_divid_5_words_feature
+The total number of valid article with label places is: 15098
+SSE of the clustering is : 3767498.94762
+Entropy of non-clustering is : 4.28777142574
+Entropy after clustering is : 4.14615360969
+Information gain from entropy is : 0.141617816049
+
+==============================
+Clustering Parameters: minpts is 10 and EPSILON is 0.7
+______________________________
+Clustering result: dbSCANplaces for the feature topNum_5_divid_1_words_feature
+The total number of valid article with label places is: 15098
+SSE of the clustering is : 1569800.25529
+Entropy of non-clustering is : 2.14388571287
+Entropy after clustering is : 2.05457168327
+Information gain from entropy is : 0.0893140296003
+
+______________________________
+Clustering result: dbSCANplaces for the feature topNum_5_divid_5_words_feature
+The total number of valid article with label places is: 15098
+SSE of the clustering is : 8797351.37937
+Entropy of non-clustering is : 4.28777142574
+Entropy after clustering is : 4.20080929245
+Information gain from entropy is : 0.0869621332873
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The same EPSILON (Radius above)
